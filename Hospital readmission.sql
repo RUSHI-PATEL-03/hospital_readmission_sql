@@ -187,8 +187,6 @@ ORDER BY risk_rank;
 
 --9) Which medical specialty has the most severe patients and highest readmission?
 
-select medical_specialty,n_medications, time_in_hospital, 
-
 with specialty_metrics as (
 		  select medical_specialty,
 		  round(avg(time_in_hospital)) as avg_stay_in_hospital,
@@ -211,6 +209,3 @@ FROM specialty_metrics
 select * 
 from ranked_specialties
 order by 1
-
---10) Multi-factor risk analysis (ADVANCED – THIS IS GOLD)
---👉 Insight: Combine features → real-world thinking
