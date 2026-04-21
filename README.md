@@ -193,7 +193,7 @@ CREATE DATABASE hospital_readmission;
 
 I'm a data analyst passionate about using SQL to turn raw data into decisions. This project reflects my ability to work with real-world messy datasets, ask the right business questions, and translate query results into actionable insights.
 
-📫 Connect with me on (https://www.linkedin.com/in/rushi-patel-a3a787304/)(#)
+📫 Connect with me on https://www.linkedin.com/in/rushi-patel-a3a787304/
 
 ---
 
