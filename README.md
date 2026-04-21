@@ -1,6 +1,6 @@
 #🏥 Hospital Readmission Risk Analysis — SQL Project
 
-> **"47% of 25,000 patients were readmitted. This project finds out why — and who's next."**
+> **"47% of 25,000 patients were readmitted. This project finds out and who's next."**
 
 [![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
