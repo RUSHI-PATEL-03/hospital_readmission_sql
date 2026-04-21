@@ -152,8 +152,8 @@ hospital-readmission-sql/
 
 Based on the analysis, here are actionable takeaways:
 
-1. **Target inpatient-dominant patients** for mandatory post-discharge follow-up programs
-2. **Flag diabetic patients** where glucose/A1C results are elevated but medications were not adjusted — they have the highest preventable readmission risk
+1. **Target inpatient dominant patients** for mandatory post discharge follow up programs
+2. **Flag diabetic patients** where glucose/A1C results are elevated but medications were not adjusted, they have the highest preventable readmission risk
 3. **Strengthen respiratory care protocols** — this diagnosis group consistently tops readmission charts
 4. **Review elderly discharge processes** (80–90 age group) — nearly 1 in 2 is returning within 30 days
 5. **Don't assume longer stays = better outcomes** — the data shows no protective effect of extended hospitalization alone
@@ -183,7 +183,6 @@ CREATE DATABASE hospital_readmission;
 
 ## 📚 Dataset
 
-- **Source:** [UCI ML Repository — Diabetes 130-US Hospitals (1999–2008)](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 - **Size:** 25,000 patient records
 - **Note:** Data has been preprocessed and anonymized. No real patient identifiers are included.
 
